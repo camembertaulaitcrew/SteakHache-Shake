@@ -1,31 +1,38 @@
-A Steak-Hache Shake Recipe
-==========================
+Une recette de Steak-Haché-Shake
+================================
 
 I. INTRO
 --------
 
-It's a great recipe for a steak-hache milkshake.
-Who doesn't love steak-hache?!
-We all love steak-hache.
-We all love milkshakes too.
-Steak-Hache + milkshake == twice the love!
-Make a Steak-HacheShake. Thank me later.
+C'est une bonne recette pour un milkshake au steak-haché.
 
-II. REQUIREMENTS
-----------------
+Qui n'aime pas le steak-haché ?!
 
-Unless you have an enormous mortar & pestle, you're going to need a blender.
-Scratch that, you *need* a blender. A good one.
-We used one with a spout, those things are the bomb.
+Nous aimons tous le steak-haché.
 
-That's really all you need.
+Nous aimons tous les milkshakes aussi.
 
-Don't forget to seal everything. As delicious as Steak-HacheShake is, if the Blender explodes, it's still gonna be nasty to clean up.
+Steak-haché + milkshake == deux fois plus d'amour !
 
-III. HOW TO
------------
+Faites un SteakHaché-Shake. Remerciez moi plus tard.
 
-Follow the recipe.
-Mix all the stuff in the blender.
-Drink it.
-(No, it's not "brotein"; girls like Steak-HacheShakes, too.)
+II. REQUIS
+----------
+
+Sauf si vous avez un énorme mortier et un pilon, vous allez avoir besoin d'un mélangeur.
+
+Un mélangeur. Un bon.
+
+Nous allons en utiliser une avec un bec, ces trucs sont de la bombe.
+
+C'est vraiment tout ce dont vous avez besoin.
+
+N'oubliez pas de sceller tout. Aussi délicieux que puisse être le Steak-haché-shake, en cas d'explosion du mélangeur, ça va être difficile à nettoyer.
+
+III. COMMENT
+------------
+
+Suivez la recette.
+Mixez tous les trucs dans le mélangeur.
+Buvez.
+(Les filles aussi adorent)
