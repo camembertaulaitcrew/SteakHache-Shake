@@ -32,7 +32,8 @@ N'oubliez pas de sceller tout. Aussi délicieux que puisse être le Steak-haché
 III. COMMENT
 ------------
 
-Suivez la recette.
-Mixez tous les trucs dans le mélangeur.
-Buvez.
+- Suivez la recette.
+- Mixez tous les trucs dans le mélangeur.
+- Buvez.
+
 (Les filles aussi adorent)
