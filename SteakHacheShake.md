@@ -1,7 +1,9 @@
 RECIPE FOR STEAK-HACHE SHAKE
+============================
 
-INGREDIENTS:
+INGREDIENTS
 ------------
+
 - A pint of good vanilla ice cream (use French vanilla or Madagascar vanilla or something, no lame boring vanillas)
 - Milk
 - One banana
@@ -10,8 +12,9 @@ INGREDIENTS:
 - A Nilla Wafer for Americans or a Malted Milk Biscuit if outside the US
 
 
-INSTRUCTIONS:
+INSTRUCTIONS
 -------------
+
 1) Fry the steak-hache in a pan.
 2) Take the steak-hache out of the pan, put it on a paper towel to drain & stay crispy.
 3) Put the ice cream in the blender.

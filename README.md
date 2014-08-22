@@ -1,15 +1,9 @@
-##########################
-# A Steak-Hache Shake Recipe   #
-#                        #
-# comments or feedback?  #
-# send to martha@woop.ie #
-##########################
+A Steak-Hache Shake Recipe
+==========================
 
 I. INTRO
-II. REQUIREMENTS
-III. HOW TO
+--------
 
-I. INTRO
 It's a great recipe for a steak-hache milkshake.
 Who doesn't love steak-hache?!
 We all love steak-hache.
@@ -18,6 +12,8 @@ Steak-Hache + milkshake == twice the love!
 Make a Steak-HacheShake. Thank me later.
 
 II. REQUIREMENTS
+----------------
+
 Unless you have an enormous mortar & pestle, you're going to need a blender.
 Scratch that, you *need* a blender. A good one.
 We used one with a spout, those things are the bomb.
@@ -27,6 +23,8 @@ That's really all you need.
 Don't forget to seal everything. As delicious as Steak-HacheShake is, if the Blender explodes, it's still gonna be nasty to clean up.
 
 III. HOW TO
+-----------
+
 Follow the recipe.
 Mix all the stuff in the blender.
 Drink it.
